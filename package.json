@@ -1,0 +1,22 @@
+{
+  "name": "pb-test",
+  "version": "1.0.0",
+  "description": "pb test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jim936/pb-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jim936/pb-test/issues"
+  },
+  "homepage": "https://github.com/jim936/pb-test#readme",
+  "dependencies": {
+    "cypress": "^3.1.4"
+  }
+}
