@@ -10,5 +10,6 @@
 - Once the `happyPath` test has finished, click on the Cypress application
 - Now click `validationError` and observe the test
 
-https://bit.ly/2Ch3eZg  - Test Report (Google Sheets)
-https://bit.ly/2RJWvAN  - Possible Test Cases (Google Docs)
+## Email Login/Account Selection Manual Task
+- https://bit.ly/2Ch3eZg || Test Report (Google Sheets)
+- https://bit.ly/2RJWvAN || Possible Test Cases (Google Docs)
