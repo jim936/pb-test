@@ -11,5 +11,5 @@
 - Now click `validationError` and observe the test
 
 ## Email Login/Account Selection Manual Task
-- https://bit.ly/2Ch3eZg || Test Report (Google Sheets)
-- https://bit.ly/2RJWvAN || Possible Test Cases (Google Docs)
+- https://bit.ly/2Ch3eZg || Test Report/Scenarios Run (Google Sheets)
+- https://bit.ly/2SUvJmG || Possible Test Scenarios (Google Docs)
